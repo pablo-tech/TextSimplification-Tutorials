@@ -11,5 +11,5 @@ Dyslexia impacts about 20% of the world’s population. We envision a future in 
 # Sentence simplification papers demo and tutorials
 
 - MUSS paper ([link](https://arxiv.org/pdf/2005.00352v2.pdf))
--- Perform simple prediction using MUSS model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DEnnar69ClqlrsQsC5NGYTn3mY2j4RlV?usp=sharing)
--- Validate on the test dataset (as per table 2 in the paper): 
+   - Perform simple prediction using MUSS model: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/drive/1DEnnar69ClqlrsQsC5NGYTn3mY2j4RlV?usp=sharing)
+   - Validate on the test dataset (as per table 2 in the paper): 
