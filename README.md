@@ -8,6 +8,13 @@ Dyslexia impacts about 20% of the world’s population. We envision a future in 
 - PWKP / WikiSmall: Hybrid Simplification using Deep Semantics and Machine Translation https://paperswithcode.com/paper/hybrid-simplification-using-deep-semantics
 
 
+# Useful repos
+
+- **EASSE**: Package that facilitates the process of of evaluating and benchmarking sentence simplification models on commonly used datasets. ([link](https://github.com/feralvam/easse))
+
+
+
+
 # Sentence simplification papers demo and tutorials
 
 - MUSS paper ([link](https://arxiv.org/pdf/2005.00352v2.pdf))
